@@ -4,7 +4,7 @@
 
 I design and build production AI systems for regulated, high-stakes workflows: **voice agents that take real actions**, **private LLM platforms for data that can't leave the building**, and **governed LLM gateways that control spend across providers**. The common thread is a deterministic control layer between the model and anything it can touch. Model output is treated as untrusted input; policy, identity, limits and audit are plain, tested code.
 
-That approach comes from 10 years in fintech fraud, disputes and risk operations, where velocity checks, idempotency, step-up verification and tamper-evident audit trails are how you run anything that moves money or touches customer data. AI agents now do both.
+That approach comes from 10 years across fintech fraud, risk and customer operations, where velocity checks, idempotency, step-up verification and tamper-evident audit trails are how you run anything that moves money or touches customer data. AI agents now do both.
 
 [LinkedIn](https://www.linkedin.com/in/coreymathie) · South Florida (US Eastern) · Open to remote, hybrid and relocation
 
@@ -46,7 +46,7 @@ Every repo has architecture docs, documented failure modes, a roadmap, and CI on
 ### Experience
 
 - **AI Systems Architect & Engineer (2025–present).** Voice and conversational agents, serverless AI on AWS and Azure, private LLM deployments, and API and webhook integrations for healthcare, legal and real-estate businesses.
-- **Fintech fraud, disputes and risk (10 years).** Fraud and risk analysis, transaction monitoring, AML/KYC/CIP, enhanced due diligence, SAR filing, dispute operations, and risk reporting at a top US bank, a fintech lender and a global investment bank. Details on [LinkedIn](https://www.linkedin.com/in/coreymathie).
+- **Fintech fraud, disputes and risk (2016–2024).** Fraud and risk analysis, transaction monitoring, AML/KYC/CIP, enhanced due diligence, SAR filing, dispute operations, and risk reporting at a top US bank, a fintech lender and a global investment bank. Details on [LinkedIn](https://www.linkedin.com/in/coreymathie).
 
 ### Stack
 
