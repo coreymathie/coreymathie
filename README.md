@@ -45,7 +45,7 @@ Every repo has architecture docs, documented failure modes, a roadmap, and CI on
 
 ### Experience
 
-- **AI Engineer (2025–present).** Voice and conversational agents, serverless AI on AWS and Azure, private LLM deployments, and API and webhook integrations for healthcare, legal and real-estate businesses.
+- **AI Engineer (2025–present).** Agentic AI and voice AI agents, serverless AI on AWS and Azure, private LLM deployments, and API and webhook integrations for healthcare, legal and real-estate businesses.
 - **Fintech fraud, disputes and risk (2016–2024).** Fraud and risk analysis, transaction monitoring, AML/KYC/CIP, enhanced due diligence, SAR filing, dispute operations, and risk reporting at a top US bank, a fintech lender and a global investment bank. Details on [LinkedIn](https://www.linkedin.com/in/coreymathie).
 
 ### Stack
