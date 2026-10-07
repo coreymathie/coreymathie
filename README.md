@@ -1,6 +1,6 @@
 <img src="assets/banner.png" alt="Corey Mathie, AI Systems Architect. We Keep AI Simple." width="100%">
 
-## Corey Mathie · AI Systems Architect & Engineer
+## Corey Mathie · AI Engineer & AI Solutions Architect
 
 I design and build production AI systems for regulated, high-stakes workflows: **voice agents that take real actions**, **private LLM platforms for data that can't leave the building**, and **governed LLM gateways that control spend across providers**. The common thread is a deterministic control layer between the model and anything it can touch. Model output is treated as untrusted input; policy, identity, limits and audit are plain, tested code.
 
@@ -45,7 +45,7 @@ Every repo has architecture docs, documented failure modes, a roadmap, and CI on
 
 ### Experience
 
-- **AI Systems Architect & Engineer (2025–present).** Voice and conversational agents, serverless AI on AWS and Azure, private LLM deployments, and API and webhook integrations for healthcare, legal and real-estate businesses.
+- **AI Engineer (2025–present).** Voice and conversational agents, serverless AI on AWS and Azure, private LLM deployments, and API and webhook integrations for healthcare, legal and real-estate businesses.
 - **Fintech fraud, disputes and risk (2016–2024).** Fraud and risk analysis, transaction monitoring, AML/KYC/CIP, enhanced due diligence, SAR filing, dispute operations, and risk reporting at a top US bank, a fintech lender and a global investment bank. Details on [LinkedIn](https://www.linkedin.com/in/coreymathie).
 
 ### Stack
@@ -62,4 +62,4 @@ Every repo has architecture docs, documented failure modes, a roadmap, and CI on
 
 ### Open to
 
-Senior AI Systems Architect, AI Engineer and Cloud AI roles (full-time or contract), especially in fintech, healthcare, legal and other regulated industries. **[Message me on LinkedIn](https://www.linkedin.com/in/coreymathie).**
+AI Engineer, AI Solutions Architect and Cloud AI roles (full-time or contract), especially in fintech, healthcare, legal and other regulated industries. **[Message me on LinkedIn](https://www.linkedin.com/in/coreymathie).**
